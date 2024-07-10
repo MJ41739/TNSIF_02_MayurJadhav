@@ -1,4 +1,4 @@
-package TNS_DayOne;
+package com.tnsif.dayone;
 
 public class DayOne {
 	public static void main(String[] args) {
